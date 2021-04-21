@@ -1,6 +1,6 @@
 # Helm-Chart-for-Jenkins
-This Chart will provide a Jenkins Setup in the K8S by using the jenkins docker image
-
+This Chart will provide a Jenkins Setup in the K8S by using the jenkins docker image<br/><br/>
+[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/helm-chart-for-jenkins)](https://artifacthub.io/packages/search?repo=helm-chart-for-jenkins)
 
 ## What is Helm?<br/>
 In simple terms, Helm is a package manager for Kubernetes. Helm is the K8s equivalent of yum or apt. 
