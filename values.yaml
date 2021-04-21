@@ -1,0 +1,4 @@
+ReplicaCount: 1
+myservice:
+    type: NodePort
+    nodeport: 30000
